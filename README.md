@@ -33,13 +33,17 @@ https://drive.google.com/file/d/1Dv-HF10AUUA03AO_cQvar462eXawk0iQ/view?usp=shari
 
 
 Attribute Information
-'vidid' : Unique Identification ID for each video
-'adview' : The number of adviews for each video
-'views' : The number of unique views for each video
-'likes' : The number of likes for each video
-'dislikes' : The number of likes for each video
-'comment' : The number of unique comments for each video
-'published' : The data of uploading the video
-'duration' : The duration of the video (in min. and seconds)
-'category' : Category niche of each of the video
+
+1.) 'vidid' : Unique Identification ID for each video
+
+2.) 'adview' : The number of adviews for each video
+
+3.) 'views' : The number of unique views for each video
+
+4.) 'likes' : The number of likes for each video
+5.) 'dislikes' : The number of likes for each video
+6.) 'comment' : The number of unique comments for each video
+7.) 'published' : The data of uploading the video
+8.) 'duration' : The duration of the video (in min. and seconds)
+9.) 'category' : Category niche of each of the video
 
